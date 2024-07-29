@@ -1,0 +1,7 @@
+server:
+  port: 1910
+spring:
+  servlet:
+    multipart:
+      max_file_size: 10MB
+      max_request_size: 10MB
